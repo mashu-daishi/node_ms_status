@@ -1,0 +1,22 @@
+{
+  "author": "",
+  "dependencies": {
+    "glob": "https://registry.npmjs.org/glob/-/glob-7.1.2.tgz",
+    "object-manage": "https://registry.npmjs.org/object-manage/-/object-manage-1.0.0.tgz",
+    "os": "https://registry.npmjs.org/os/-/os-0.1.1.tgz",
+    "path": "https://registry.npmjs.org/path/-/path-0.12.7.tgz"
+  },
+  "description": "A simple package to determine the status of a container. It provides the following type of data:",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "node_ms_status",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}
